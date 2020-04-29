@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FIND YOUR LECTURER</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="detail">detail</string>
+    <string name="heroes_name">nama</string>
+    <string name="hello_world">hello</string>
+</resources>
